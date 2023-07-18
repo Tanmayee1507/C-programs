@@ -1,12 +1,3 @@
-/*
-Function name: Addition
-input: int 
-output: int Ans
-Author: Tanmayee Kadam
-Date:18th April 2023
-language :C programming
-*/
-
 #include<stdio.h>
 
 int main()
